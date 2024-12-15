@@ -41,6 +41,11 @@ const templates = [
     url: "github:yingside/vite-template",
     desc: "vite+vue3",
   },
+  {
+    name: "vue-admin",
+    url: "github:cmdparkkour/vue-admin-box",
+    desc: "vite+vue3中后台管理系统",
+  }
 ]
 const program = new Command()
 // console.log(figlet)
