@@ -1,5 +1,5 @@
 {
-  "name": "selfcli",
+  "name": "personal-cli1",
   "version": "1.0.1",
   "main": "index.js",
   "type": "module",
@@ -8,6 +8,10 @@
   },
   "bin": {
     "selfcli": "./index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/namezy/cli.git"
   },
   "keywords": [],
   "author": "",
