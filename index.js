@@ -55,6 +55,7 @@ program
   .description("mycli是一个简单的脚手架工具")
 program.version(pkg.version, "-v, --version", "查看版本号")
 
+
 // program.option('-n, --name <type>','set name' ,dirname(fileURLToPath(import.meta.url)))
 // program.option("-p, --port <port>", "set port")
 // program.option("-f, --force", "set framework")
